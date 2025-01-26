@@ -1,0 +1,4 @@
+selenium==4.9.1
+undetected-chromedriver==3.5.5
+pyqt5==5.15.11
+setuptools
